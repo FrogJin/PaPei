@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PāPēi-1.0", "PāPēi-1.0\PāPēi-1.0.csproj", "{78777116-9FDB-4429-851A-181A4C131A0F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PāPēi-1.0_Setup", "PāPēi-1.0_Setup\PāPēi-1.0_Setup.vdproj", "{7DC4B81B-2B8F-47D3-A642-C91615AAB998}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78777116-9FDB-4429-851A-181A4C131A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78777116-9FDB-4429-851A-181A4C131A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78777116-9FDB-4429-851A-181A4C131A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78777116-9FDB-4429-851A-181A4C131A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DC4B81B-2B8F-47D3-A642-C91615AAB998}.Debug|Any CPU.ActiveCfg = Debug
+		{7DC4B81B-2B8F-47D3-A642-C91615AAB998}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

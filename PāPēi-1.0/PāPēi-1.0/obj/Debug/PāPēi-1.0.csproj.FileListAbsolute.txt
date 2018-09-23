@@ -1,0 +1,16 @@
+C:\Users\tim.jin\Desktop\Programming\PāPēi-1.0\PāPēi-1.0\bin\Debug\PāPēi-1.0.exe.config
+C:\Users\tim.jin\Desktop\Programming\PāPēi-1.0\PāPēi-1.0\obj\Debug\MainWindow.g.cs
+C:\Users\tim.jin\Desktop\Programming\PāPēi-1.0\PāPēi-1.0\obj\Debug\App.g.cs
+C:\Users\tim.jin\Desktop\Programming\PāPēi-1.0\PāPēi-1.0\obj\Debug\PāPēi-1.0_MarkupCompile.cache
+C:\Users\tim.jin\Desktop\Programming\PāPēi-1.0\PāPēi-1.0\obj\Debug\PāPēi-1.0_MarkupCompile.lref
+C:\Users\tim.jin\Desktop\Programming\PāPēi-1.0\PāPēi-1.0\bin\Debug\PāPēi-1.0.exe
+C:\Users\tim.jin\Desktop\Programming\PāPēi-1.0\PāPēi-1.0\bin\Debug\PāPēi-1.0.pdb
+C:\Users\tim.jin\Desktop\Programming\PāPēi-1.0\PāPēi-1.0\obj\Debug\PDFViewer.baml
+C:\Users\tim.jin\Desktop\Programming\PāPēi-1.0\PāPēi-1.0\obj\Debug\PDFViewer.g.cs
+C:\Users\tim.jin\Desktop\Programming\PāPēi-1.0\PāPēi-1.0\obj\Debug\MainWindow.baml
+C:\Users\tim.jin\Desktop\Programming\PāPēi-1.0\PāPēi-1.0\obj\Debug\PāPēi-1.0.g.resources
+C:\Users\tim.jin\Desktop\Programming\PāPēi-1.0\PāPēi-1.0\obj\Debug\PāPēi_1._0.Properties.Resources.resources
+C:\Users\tim.jin\Desktop\Programming\PāPēi-1.0\PāPēi-1.0\obj\Debug\PāPēi-1.0.csproj.GenerateResource.Cache
+C:\Users\tim.jin\Desktop\Programming\PāPēi-1.0\PāPēi-1.0\obj\Debug\PāPēi-1.0.exe
+C:\Users\tim.jin\Desktop\Programming\PāPēi-1.0\PāPēi-1.0\obj\Debug\PāPēi-1.0.pdb
+C:\Users\tim.jin\Desktop\Programming\PāPēi-1.0\PāPēi-1.0\obj\Debug\PāPēi-1.0.csprojResolveAssemblyReference.cache
